@@ -1,10 +1,10 @@
 {
-  "seq": 2,
+  "seq": 3,
   "issuedBy": "carlo",
-  "issuedAt": "2026-09-25T09:51:29Z",
+  "issuedAt": "2026-09-25T09:58:11Z",
   "commands": [
     {
-      "actuatorId": "light-1",
+      "actuatorId": "fan-1",
       "action": "off"
     }
   ]
