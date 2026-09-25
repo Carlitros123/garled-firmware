@@ -1,0 +1,21 @@
+{
+  "seq": 1,
+  "issuedBy": "carlo",
+  "issuedAt": "2026-09-25T10:05:23Z",
+  "commands": [
+    {
+      "actuatorId": "fan-1",
+      "action": "off"
+    },
+    {
+      "actuatorId": "fan-1",
+      "action": "on",
+      "delayMs": 4000
+    },
+    {
+      "actuatorId": "fan-1",
+      "action": "off",
+      "delayMs": 4000
+    }
+  ]
+}
