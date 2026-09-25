@@ -1,7 +1,7 @@
 {
-  "version": "0.6.5",
-  "url": "https://raw.githubusercontent.com/Carlitros123/garled-firmware/main/esp32-main/garled-esp32-0.6.5.bin",
-  "sha256": "5c4d962218de66bed0c346da4112487c58536889f234211a636caa0f959c172f",
-  "size": 1160224,
-  "publishedAt": "2026-09-25T09:04:18Z"
+  "version": "0.6.6",
+  "url": "https://raw.githubusercontent.com/Carlitros123/garled-firmware/main/esp32-main/garled-esp32-0.6.6.bin",
+  "sha256": "8e0b009e624026f91bae2448f1e1d2addd8a197894340f9e02156924bba539c3",
+  "size": 1171248,
+  "publishedAt": "2026-09-25T09:41:55Z"
 }
