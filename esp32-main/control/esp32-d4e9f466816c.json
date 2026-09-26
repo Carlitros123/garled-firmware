@@ -1,11 +1,15 @@
 {
-  "seq": 3,
+  "seq": 4,
   "issuedBy": "carlo",
-  "issuedAt": "2026-09-25T10:05:11Z",
+  "issuedAt": "2026-09-26T00:16:56Z",
   "commands": [
     {
-      "actuatorId": "firmware",
-      "action": "update"
+      "actuatorId": "light-1",
+      "action": "off"
+    },
+    {
+      "actuatorId": "fan-1",
+      "action": "on"
     }
   ]
 }
