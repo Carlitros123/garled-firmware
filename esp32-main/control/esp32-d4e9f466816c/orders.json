@@ -1,15 +1,16 @@
 {
-  "seq": 3,
+  "seq": 4,
   "issuedBy": "carlo",
-  "issuedAt": "2026-09-26T00:16:54Z",
+  "issuedAt": "2026-09-26T00:21:29Z",
   "commands": [
     {
       "actuatorId": "light-1",
-      "action": "off"
+      "action": "on"
     },
     {
-      "actuatorId": "fan-1",
-      "action": "on"
+      "actuatorId": "light-1",
+      "action": "off",
+      "delayMs": 8000
     }
   ]
 }
